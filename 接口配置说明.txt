@@ -1,0 +1,46 @@
+﻿所有clan://localhost/TVBox替换为https://notabug.org/yzzsjc/TVBox-Pro-wuyou/raw/master
+所有clan://TVBox替换为https://notabug.org/yzzsjc/TVBox-Pro-wuyou/raw/master
+
+*****************************************************************************
+复制下面链接到可视，点仓库后，先给仓库命名，后粘贴下面链接,点确定。
+ 本地单仓：https://notabug.org/yzzsjc/TVBox-Pro/raw/master/本地仓库.json
+ 仓库合集：https://notabug.org/yzzsjc/TVBox-Pro/raw/master/lib/ksck.json
+*****************************************************************************
+方法:
+先去设置里给软件存储权限，然后把本地配置需要的数据放
+到设备根目录里，比如盒子0（根目录）、手机自带文件管
+理打开第一层就是根目录，然后去配置地址里面填
+clan://localhost/TVBox/xx.json就可以使用本地配置了。
+"xx"代表接口文件名。
+
+接口配置:
+************************************************************************
+纯本地接口:
+clan://localhost/TVBox/lib/无忧.json
+clan://localhost/TVBox/lib/弯弯.json
+clan://localhost/TVBox/Hk/XYQTVBox.txt
+clan://localhost/TVBox/lib/js.json
+clan://localhost/TVBox/py/py.txt
+clan://localhost/TVBox/lib/动漫.txt
+clan://localhost/TVBox/lib/云星家庭.json
+clan://localhost/TVBox/lib/云星哔哩.json
+clan://localhost/TVBox/lib/云星阿里.json
+clan://localhost/TVBox/lib/肥猫.txt
+ ***************************************************************************
+半本地接口:
+clan://localhost/TVBox/lib/巧计.txt
+clan://localhost/TVBox/lib/唐三.txt
+clan://localhost/TVBox/lib/俊佬.txt
+clan://localhost/TVBox/lib/老刘备.json
+clan://localhost/TVBox/lib/多多.txt
+clan://localhost/TVBox/lib/白嫖.json
+clan://localhost/TVBox/lib/刚刚.json
+clan://localhost/TVBox/lib/南风XC.json
+clan://localhost/TVBox/lib/太阳.json
+clan://localhost/TVBox/lib/月光.json
+clan://localhost/TVBox/lib/分享者.json
+clan://localhost/TVBox/lib/神器.json
+clan://localhost/TVBox/lib/饭太硬.txt
+*****************************************************************************
+其中无忧、弯弯、js接口、和云星3接口是纯本地，其它半本地。
+JAR本地化，JSON和直播也本地化了，包括哔哩自定义
